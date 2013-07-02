@@ -5,3 +5,6 @@
 * There are two classes.
   * WidgetProvider ; extends AppWidgetProvider class.
   * WidgetService ; extends RemoteViewsService class. It has RemoteViewsService.RemoteViewFactory class, too.
+
+## License ##
+* MIT license (http://opensource.org/licenses/mit-license.php)
