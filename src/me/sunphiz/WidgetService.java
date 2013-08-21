@@ -4,7 +4,7 @@ package me.sunphiz;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-import me.sunphiz.apdaterviewflipperwidget.R;
+import me.sunphiz.adapterviewflipperwidget.R;
 import android.appwidget.AppWidgetManager;
 import android.content.Intent;
 import android.text.format.DateFormat;
