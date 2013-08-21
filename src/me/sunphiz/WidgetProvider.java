@@ -1,6 +1,6 @@
 package me.sunphiz;
 
-import me.sunphiz.apdaterviewflipperwidget.R;
+import me.sunphiz.adapterviewflipperwidget.R;
 import android.app.PendingIntent;
 import android.appwidget.AppWidgetManager;
 import android.appwidget.AppWidgetProvider;
