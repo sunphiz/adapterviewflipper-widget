@@ -1,5 +1,6 @@
 # 안드로이드 AdapterViewFlipper 예제 #
 * AdapterViewFlipper를 이용한 appwidget이 가능하다고 android.com에 나와있지만, 돌아가는 샘플은 찾을수가 없어 만들게 되었습니다.
+<img src="http://sunphiz.me/wp/wp-content/uploads/2013/08/device-2013-08-21-115836-168x300.png" alt="screenshot of this widget"/>
 
 ## 레이아웃 ##
 * 두개의 클래스로 구성됩니다.
