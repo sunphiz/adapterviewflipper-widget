@@ -21,8 +21,6 @@ public class WidgetProvider extends AppWidgetProvider {
 	@Override
 	public void onUpdate(Context context, AppWidgetManager appWidgetManager,
 			int[] appWidgetIds) {
-		Log.i(TAG, "onUpdate()");
-
 		for (int id : appWidgetIds) {
 
 			RemoteViews rv = new RemoteViews(context.getPackageName(),
@@ -63,8 +61,6 @@ public class WidgetProvider extends AppWidgetProvider {
 
 	@Override
 	public void onReceive(Context context, Intent intent) {
-		Log.i(TAG, "onUpdate()");
-
 		final String action = intent.getAction();
 
 		if (action.equals(REFRESH_ACTION)) {
