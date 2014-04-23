@@ -39,7 +39,7 @@ THE SOFTWARE.
 
 
 # Android AppWidget with AdapterViewFlipper #
-* The first ViewFlipper widget sample 
+* The first ViewFlipper widget running sample
   * I could not find any sample with ApdaterViewFlipper. So, I've made. I wish this would be helpful.
 * Simple structure
 * Most common features are implemented.
