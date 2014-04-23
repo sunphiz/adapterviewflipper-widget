@@ -1,5 +1,9 @@
 # 안드로이드 AdapterViewFlipper 예제 #
 * AdapterViewFlipper를 이용한 appwidget이 가능하다고 android.com에 나와있지만, 돌아가는 샘플은 찾을수가 없어 만들게 되었습니다.
+* 가장 많이 사용하는 기능이 구현되어 있습니다.
+  * 페이지 이동 : 1 <-> 2
+  * 새로고침 : 변경된데이터를 화면에 반영
+  * 가로/세로 모드 변환
 
 <img src="http://sunphiz.me/wp/wp-content/uploads/2013/08/device-2013-08-21-115836-168x300.png" alt="screenshot of this widget"/>
 
@@ -34,6 +38,10 @@ THE SOFTWARE.
 
 # Android AppWidget with AdapterViewFlipper #
 * I could not find any sample with ApdaterViewFlipper. So, I've made. I wish this would be helpful.
+* Most common features are implemented.
+  * Paging between 1 and 2
+  * Refresh to apply and redraw data changed
+  * Orientation changed
 
 ## layout ##
 * There are two classes.
